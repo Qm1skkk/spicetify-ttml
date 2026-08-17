@@ -1,0 +1,6 @@
+{
+  "name": "Download TTML",
+  "description": "Download current track lyrics as TTML from the Spotify server",
+  "main": "downloadTTML.js",
+  "author": "artem"
+}
